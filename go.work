@@ -1,0 +1,12 @@
+go 1.20
+
+use (
+	commmon
+	connnector
+	core
+	framework
+	user
+	game
+	hall
+	gate
+)
